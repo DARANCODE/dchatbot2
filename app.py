@@ -1,6 +1,5 @@
 # cre by Daniel Klein 
 
-import openai
 import streamlit as st
 from streamlit.session_state import SessionState
 import firebase_admin
